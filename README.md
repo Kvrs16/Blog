@@ -1,1 +1,1 @@
-A reactive and interactive app
+<b>A reactive and interactive web application</b>
